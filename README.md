@@ -1,5 +1,5 @@
 # ALWAYS FLASH
-
+![ALWAYS FLASH](deviceview.jpg)
 
 **An append-only USB flash drive.**
 
