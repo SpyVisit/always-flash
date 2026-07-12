@@ -1,5 +1,5 @@
 # ALWAYS FLASH
-![ALWAYS FLASH](d:/device.jpg)
+![ALWAYS FLASH](device.jpg)
 
 **An append-only USB flash drive.**
 
